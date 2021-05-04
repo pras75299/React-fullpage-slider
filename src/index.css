@@ -172,7 +172,8 @@ article h4 {
 }
 .title {
   text-transform: capitalize;
-  margin-bottom: 0.75rem;
+  margin-bottom: 20px;
+  margin-top: 20px;
   color: var(--clr-grey-3);
 }
 .text {
