@@ -1,5 +1,5 @@
-# react-projects-7-slider
+# React-fullpage-slider
 
 #### IN ACTION
 
-<img src="https://github.com/pras75299/react-slider-uidesign/blob/master/src/appss.png" width="50%" height="50%"/>
+<video src="https://github.com/pras75299/React-fullpage-slider/blob/master/src/fullpageslider-preview.png" width="50%" height="50%"/>
