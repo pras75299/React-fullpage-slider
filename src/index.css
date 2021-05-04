@@ -191,7 +191,7 @@ article h4 {
 .prev,
 .next {
   position: absolute;
-  top: 200px;
+  top: 45%;
   transform: translateY(-50%);
   background: var(--clr-grey-5);
   color: var(--clr-white);
@@ -201,7 +201,7 @@ article h4 {
   place-items: center;
   border-color: transparent;
   font-size: 1rem;
-  border-radius: var(--radius);
+  border-radius: 50%;
   cursor: pointer;
   transition: var(--transition);
 }
